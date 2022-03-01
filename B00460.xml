@@ -1,0 +1,477 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the late horrible treason, intended against the Prince of Orange, and the whole state of the vnited prouinces, according to the Dutch coppy printed at the Hage. Whereunto is added these particulars out of our Weekely Newes: A declaration published by the French king, in behalfe and for the restoring of the Marquesse of Rosny ... The arriuall at Constantinople of the ambassadors of Sweden, Muscouia, and Polonia ... Whereunto is added A most true and wonderfull vision seene by Intien Iansen ... at Oosterzee ... With diuers other particular relations, of many parts of the world..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00460</idno>
+            <idno type="STC">STC 18507.98</idno>
+            <idno type="STC">ESTC S123663</idno>
+            <idno type="EEBO-CITATION">56572898</idno>
+            <idno type="OCLC">ocm 56572898</idno>
+            <idno type="VID">180998</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180998)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2152:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the late horrible treason, intended against the Prince of Orange, and the whole state of the vnited prouinces, according to the Dutch coppy printed at the Hage. Whereunto is added these particulars out of our Weekely Newes: A declaration published by the French king, in behalfe and for the restoring of the Marquesse of Rosny ... The arriuall at Constantinople of the ambassadors of Sweden, Muscouia, and Polonia ... Whereunto is added A most true and wonderfull vision seene by Intien Iansen ... at Oosterzee ... With diuers other particular relations, of many parts of the world..</title>
+               </titleStmt>
+               <extent>[42] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Butter, Bartholomew Downes, and Thomas Archer.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1623..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: February 19. Numb. 19.</note>
+                  <note>Imperfect: cropped, with loss of text.</note>
+                  <note>Reproduction of original in: Sion College (deposited at Lambeth Palace Library).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Frederick Henry, --  Prince of Orange, 1584-1647 --  Early works to 1800.</term>
+               <term>Thirty Years' War, 1618-1648 --  Sources.</term>
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180998:1"/>
+            <pb facs="tcp:180998:1" rendition="simple:additions"/>
+            <p>
+               <hi>February</hi> 19. <hi>Numb.</hi> 19. A RELATION OF THE LATE HORRIBLE Treaſon, intended againſt the <hi>Prince</hi> of <hi>Orange,</hi> and the whole ſtate of the vnited Prouinces, according to the <hi>Dutch Coppy Printed at the</hi> Hage. Whereunto is added theſe particulars out of our Weekely Newes: <hi>A Declaration publiſhed by the</hi> French King, in behalfe and for the reſto<g ref="char:EOLhyphen"/>ring <hi>of the Marqueſſe of Roſny to his former Offices and places of Gouernment, by which it appeares the peace is firmely ſet<g ref="char:EOLhyphen"/>led in France,</hi> &amp;c. The arriuall at Conſtantinople of the <hi>Ambaſſadors of</hi> Sweden, Muſcouia, <hi>and Polonia,</hi> with their ſeuerall preſents giuen to the Great Turke. Whereunto is added <hi>A moſt true and wonderfull Viſion ſeene by Intien Ianſen,</hi> Elder of the Church of Ieſus Chriſt at <hi>Ooſterzee,</hi> being a confirmation of the former Coppy inlarged. With diuers other particular Relations, of many parts of the world.</p>
+            <p>LONDON, Printed for <hi>Nathaniel Butter, Bartholomew Downes,</hi> and <hi>Thomas Archer.</hi> 1623.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:180998:2"/>
+            <pb facs="tcp:180998:2"/>
+            <head>A RELATION OF THE LATE INTENDED Horrible Treaſon againſt the Prince of <hi>Orange,</hi> and the <hi>whole ſtate of the Vnited Provinces, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He laſt weeke we receiued and publiſhed certaine pri<g ref="char:EOLhyphen"/>uate Letters concerning the late intended horrible treaſon againſt the Prince of <hi>Orange,</hi> and the <hi>States</hi> of the Low Countries; At what time the ſaid Letters were written, little or no<g ref="char:EOLhyphen"/>thing was knowne concerning the ſaid Conſpiracie, but ſince divers perſons haue beene apprehended, and ſome of them examined, and tortured; vpon whoſe examination the <hi>States</hi> haue permitted ſome<g ref="char:EOLhyphen"/>thing to be publiſhed to the world thereof, which I hauing receiued in the Printed Dutch Copie, I haue cauſed to be tranſlated and Printed together with
+<pb facs="tcp:180998:3"/>the originall; vnto which I haue added the weekely Relation of Newes from ſeverall parts of the world; aſſuring you, that ſo ſoone as more particulars ſhall come to my hand, by the like ſure hand with good approbation you ſhall receiue it impartially, till when I bid you farewell, this 19. of February, 1622.</p>
+            <p>CErtaine dayes agoe, came certaine men to ſome ſailers of the Barge or ſmall Ship of the Prince of <hi>Orange</hi> &amp;c., telling that they were Ingeners, and good Parriots, and relating that they had in hand certaine enterpriſes againſt the enemies, in which they were to be imployed ſecretly, and muſt cauſe certaine fire-works of Gun-powder and other mat<g ref="char:EOLhyphen"/>terialls to be made readie, without reuealinge to any liuing bodie. For if they did otherwiſe and that it came to the light they ſhould ſuffer puniſhment on their bodie, in regard of theſe and other ſpeeches did the Sailers promiſe to aſſiſt them, and to keepe counſell for the good of the Country.</p>
+            <p>Theſe Wolues in ſheepes skinnes hoping that they ſhould come to their intent, or purpoſe, one of the Traytors (as you ſhall heare hereafter) went to his pocket, and gaue each of the Sailers aforeſaid three hundred Gilders (which amount to thirtie poundes ſterling) to encourage them the better to the buſineſſe, and told them if they made their workes well, and that they made good operations that they ſhould be better rewarded. But they ad<g ref="char:EOLhyphen"/>moniſhed them againe to keepe ſecrecie aboue all thinges, ſeeing (as they ſayd) it concerned mightily
+<pb n="3" facs="tcp:180998:3"/>the Countrey, and charged them to bring the fire-workes aforeſayd as ſoone as they ſhould be done, in Trunkes and Cheſtes, to the <hi>Hage</hi> and <hi>Rotterdam,</hi> from whence they ſhould carry them, where it ſhould be required, and they be ordered to tranſport them, aſſuring them to performe their promiſe, within the ſpace of a certaine time.</p>
+            <p>One of theſe Traitors played afterward the Mer<g ref="char:EOLhyphen"/>chant and bought certaine <hi>Pistols</hi> to ſend them (as he told) to <hi>Count-Mansfield,</hi> and others; Theſe be<g ref="char:EOLhyphen"/>ing packt vp in a Truncke and ſent by his direction to the houſe of one of his conſorts, who had a deepe Seller into which they were preſently carryed, and tryed againſt a heape of ſand whether they wold giue fire, &amp; were fit for their purpoſe. Afterwards he cau<g ref="char:EOLhyphen"/>ſed them to be packt into another Truncke, and to be ſent to an Inne of the <hi>Hage,</hi> as it appeared lately.</p>
+            <p>About this time were the Conſpirators and their conſorts appointed to meete on ſeuerall places, where they intended to execute their wicked de<g ref="char:EOLhyphen"/>ſignes. And amongſt the reſt, theſe Saylers aforeſaid, came the 5. of <hi>February</hi> with ſome of their fire-works to the Inne appointed vnto them in the <hi>Hage,</hi> where they found diuers other men beſides them which had ſet them on worke, vpon the deliuery of it the Saylers were very well entertained with drinke, and meate without any charge of their owne.</p>
+            <p>One of theſe Saylers perceiuing with an eye caſt, that the partie who gaue him the mony, had ſome conference with a man of <hi>Bleyſwick</hi> as he ſuſpected, and tooke him, for ſuch one, (as he was certaine off) to be no friend or well willer of the Prince of <hi>Orange.</hi>
+               <pb n="4" facs="tcp:180998:4"/>This Sayler muſing about this, went to bed with one of his louing fellowes, and although he had well ſup<g ref="char:EOLhyphen"/>ped, neuertheleſſe was his head full of ſtrange con<g ref="char:EOLhyphen"/>ceits, his fellow ſlept the ſame night very well, but he dreamed many ſeuerall dreames, and when he a<g ref="char:EOLhyphen"/>waked he had many ſtrange fancies in his minde, ſo that this night ſeemed very long vnto him, &amp; wiſhed many times for the day light.</p>
+            <p>As ſoone as it was day light they roſe with their other fellowes and laught about the dreaming, falling tumbling and toſſing of the dreamer a<g ref="char:EOLhyphen"/>foreſayd, but he would not tell them what his minde did giue him and how he was affected. After that they two had taſted a Cup of <hi>Aqua uitae</hi> they went to<g ref="char:EOLhyphen"/>gether walking abroad, the reſt remaining yet by their drinke.</p>
+            <p>As ſoone as the Dreamer came on the ſtreet hee told to his fellow his late dreames, and what he had ſeene and obſerued, the day before, and ſayd in plaine termes vnto him, that he ſuſpected theſe counter<g ref="char:EOLhyphen"/>feicted Ingeners were plotting Treaſon, relating alſo that he thought it very co<g ref="char:cmbAbbrStroke">̄</g>uenient, to giue the Prince of <hi>Orange</hi> notice of their ſetting at worke and pro<g ref="char:EOLhyphen"/>ceedings and other circumſtances, for (ſayd he) if this be a thing which is for the good of the Country, without queſtion the Prince of <hi>Orange</hi> ſhall know of it.</p>
+            <p>The other interpoſing preſently his Iudgement ſpake in this manner, It cannot hinder vs although we giue the Prince of <hi>Orange</hi> notice of this, for if the matter be indeed intended for the good of the Countrey, we haue done it, and receiued therefore
+<pb n="5" facs="tcp:180998:4"/>three hundred Gilders, And if it be otherwiſe the Prince of <hi>Orange</hi> will moreouer without doubt ho<g ref="char:EOLhyphen"/>nour vs with a peece of money, or ſome drinke mo<g ref="char:EOLhyphen"/>ney as they ſayd, and we ſhall ſtand ſtill in his fauour. To be briefe they concluded amongſt themſelues to reueale it to the Prince of <hi>Orange,</hi> but feared that they ſhould not be able and reſolute enough to ſpeake to his Excellency. But conſidering by them<g ref="char:EOLhyphen"/>ſelues that it was a matter of great conſequence, they went towards the Court, intending to try their for<g ref="char:EOLhyphen"/>tune howſoeuer. When they came there, they per<g ref="char:EOLhyphen"/>ceiued that his Excelency was rod abroad towards <hi>Riſewick,</hi> (where is one of his Stables of horſes) whereupon they went in all haſt thitherwards, and diſcourſing by the way, made one another to beleeue firmely that it was but a foule buſines which they had taken in hand. As ſoone as they arriued at <hi>Riſewick,</hi> they found out one of the Pages of his Excellency and intreated him, to giue notice to the Prince his Ma<g ref="char:EOLhyphen"/>ſter, that they would faine ſpeake with him: Here<g ref="char:EOLhyphen"/>upon hee ſent them word that hee was preſently to take his Coach, and would come to heare them, Whereouer they deſired the Page againe, to ſhew his Excellency that they would willingly ſpeake with him inſtantly, euen about a buſineſſe which concer<g ref="char:EOLhyphen"/>ned himſelfe mightily.</p>
+            <p>The Prince hauing vnderſtood this, commanded his Page to bring theſe Saylers aforeſayd vnto him, and when they ſtood before him, he asked them what their deſire was, they anſwered, that they had ſome ſecret matters to impart with his Excellency. Whereupon he tooke them aſide, and conferred pri<g ref="char:EOLhyphen"/>uately
+<pb n="6" facs="tcp:180998:5"/>with them, and hearing of a thing of which he knew not before, he muſed not vpon the buſineſſe, but road in all haſt to the <hi>Hage,</hi> and reuealed this matter at the meeting, or Counſell Chamber of the States: Whereupon there was giuen order that the 6. of <hi>February,</hi> (according to the new ſtile) in the yeare 1623. (as they reckon already, beginning their new yeare continually with the firſt day of <hi>Ia<g ref="char:EOLhyphen"/>nuary</hi>) the <hi>Fiſcall,</hi> or <hi>Prouoſt,</hi> or rather the <hi>Attourney</hi> of the Court was ſent with certaine men, which at<g ref="char:EOLhyphen"/>tended vpon him, to ſearch the Inne or Tauerne (ſeeing the Dutch word <hi>Herberge</hi> which in this place is vſed, ſignifieth both) of the <hi>Helmet</hi> or <hi>Caſket</hi> in the ſtreet called the North-end.</p>
+            <p>Comming there he asked the Hoſte for the Truncks and the owners thereof, two of them which are named in the Proclamation hearing an inckling of this, ſtole ſecretly at the ſame inſtant out of the ſayd houſe, comming away betwixt the Sergants and men which attended vpon the <hi>Fiſcall.</hi> All the the other were ſtayed or arreſted in the houſe vn<g ref="char:EOLhyphen"/>till the <hi>Fiſcall</hi> ſhould come backe againe out of the meeting of the States, where he told that this was not the houſe, for the Hoſte was much diſcontented, and ſayd that he had no Trunkes of any lodgers or ſtrangers in his houſe, But being afterwards infor<g ref="char:EOLhyphen"/>med and perſwaded to the contrary, he went to the ſayd houſe againe, and ſearcht vntill hee found the Truncks, and ceaſed vpon the Hoſte his Mayden-ſeruant beſide three other men, amongſt which was he who gaue the money to the foure Saylers, which being euen with the reſt taken, were kept in a
+<pb facs="tcp:180998:5"/>Chamber at the <hi>Fiſcalls</hi> houſe, vntill ſuch time as the other had partly confeſſed the matter.</p>
+            <p>The Hoſte and the other for all that they were mightily threatned, and ſtrictly examined, would confeſſe nothing which had any likelihood or colour of truth. Whereupon there was preſently or<g ref="char:EOLhyphen"/>dered that the Souldiers which lay there in Garriſon ſhould inſtantly beſet and ſtop all the paſſages to wards the <hi>Hage.</hi>
+            </p>
+            <p>This was not ſooner performed, ere there came one of the Traytors aforeſayd, in a Waggon which he had hyred to carry him to <hi>Delfe.</hi> The Souldiers perceiuing this Waggon, asked who was there, Whereupon he (knowing his Guiltie conſcience) ſprong or leaps from the Waggon intending to e<g ref="char:EOLhyphen"/>ſcape by running away, whereby there aroſe a great rumor in the <hi>Hage,</hi> in ſuch manner that euen the Towneſmen armed themſelues.</p>
+            <p>In the meane time there was a Sergant ſent in all poſt haſt towards <hi>Leyden</hi> to fetch the Hangman which put there the ſame day ſome Malefactors to the torture. So that vpon the faſting and prayer day (which was appointed by the States) after the Sermon in the Church was done, they were exami<g ref="char:EOLhyphen"/>ned by the hangman in an other manner, which made them to confeſſe ſo much, that the <hi>Piſcall</hi> was preſently ſent to the dwelling place of the widowe and children of <hi>Barneuelt:</hi> comming there he learned that his Sonnes were departed, although they were yet the day before ſeene walking in the ſtreets, where<g ref="char:EOLhyphen"/>vpon two of their ſeruants, and the Pedagoge or Tu<g ref="char:EOLhyphen"/>tor of the children were apprehended, and the houſe
+<pb facs="tcp:180998:6"/>left in the cuſtodie of the Sergeants.</p>
+            <p>When theſe Malefactors had now readie enough confeſſed concerning the ſaid buſineſſe, the States commanded the Saylers to be ſet inſtantly at liberty, and beſtowed aboue 20. double Ryders of the Vni<g ref="char:EOLhyphen"/>ted Provinces (each one of them amounts to twen<g ref="char:EOLhyphen"/>tie-one ſhillings Sterling) vpon euery one of them. Wherevpon they went away with good content<g ref="char:EOLhyphen"/>ment, and hoped according to the Tenor of the Proclamation, to get yet certaine thouſand Gil<g ref="char:EOLhyphen"/>ders.</p>
+            <p>On thurſday night, there were yet three other of their conſorts taken; and on Fryday one of <hi>Berc<g ref="char:EOLhyphen"/>kel,</hi> and two of S. <hi>Hertoghenboſh.</hi> Their names I will yet keepe ſecret, to blame them not before they are found guiltie, and cannot cleare them<g ref="char:EOLhyphen"/>ſelues.</p>
+            <p>The ſame Fryday it was rumored in the Court, that a Souldier had deſerved alreadie foure thou<g ref="char:EOLhyphen"/>ſand Gilders, hauing taken one of them which are mentioned in the Proclamation.</p>
+            <p>Certaine Cittizens of <hi>Rotterdam</hi> and <hi>Delft,</hi> were taken the ſame Fryday, and the next Satter<g ref="char:EOLhyphen"/>day.</p>
+            <p>The Confeſſions of the accuſed are kept verie ſecret by the States, and there is mightily doubted, whither the common people ſhall be acquainted with them, even for great and weightie reaſons, ſee<g ref="char:EOLhyphen"/>ing alſo the olde Proverbe ſayth, <hi>That he ſhall ſeldome doe euill, who knoweth it not.</hi> And there are ſome which are well informed of their trayterous de<g ref="char:EOLhyphen"/>ſignes, that will ſay, that there is no Chronicle nor
+<pb facs="tcp:180998:6"/>Hiſtorie which maketh mention, of ſuch a Bar<g ref="char:EOLhyphen"/>berous Enterpriſe, and relate moreouer that if it had ſucceeded, that the Pillars had beene fetcht from vnder out of the building, where<g ref="char:EOLhyphen"/>by the vtter ruine of it would haue followed im<g ref="char:EOLhyphen"/>mediately: That a great number of the Inhabi<g ref="char:EOLhyphen"/>tantes ſhould haue beene murdered, and blowne vp in the ayre beſides them which ſhould haue beene burnt, and ſlayne by the ſword of our Enemies, which lay ready with many thouſandes liering af<g ref="char:EOLhyphen"/>ter this occaſion and pray, which is for this time by the fauour and mercy of the Almightie fetcht as if it were out of their Iawes, he hauing heard the prayers of the faithfull. For it is moſt conſtantly reported that the murther of the Principall heades, and members of theſe Prouinces, beſides the firing of the <hi>Magazins</hi> or ſtore houſes with powder, were intended vpon the late mentioned faſting day.</p>
+            <p>Here commeth daylie newes, and we perceiue it alſo, that diuers wicked perſons of their conſort begin to abſent themſelues, aſwell hence, as from <hi>Rotterdam</hi> and <hi>Leyden,</hi> beſides other places.</p>
+            <p>As ſoone as they bring here any one to the Priſon, the people runnes together in ſuch manner as if they were going to an aſſault.</p>
+            <trailer>Here followeth the Dutch Relation.</trailer>
+         </div>
+         <div xml:lang="dut" type="account">
+            <pb facs="tcp:180998:7"/>
+            <pb facs="tcp:180998:7"/>
+            <head>'T HAEGHSCHE DISCOVRS. Belangende de groote Verradery. Onlanghs ghehoort ende gheſien, met al<g ref="char:EOLhyphen"/>len het gheene dat als tot in's Graven-<hi>Haegh ghepaſſeert is.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>EER</hi> Dircrete Coſijn, ick en hebbe niet na laten konnen V. E. mede te deylen van het gheene dat onlanghs ghebeurt is, mits ſende u dit in ligghend Placcaen der H. M. Heeren Staten.</p>
+            <p>Over eenighe daghen, ſo fijn ſekere Man<g ref="char:EOLhyphen"/>nen ghekomen by eenighe Matrooſen van het Iacht-ſchip van ſijn <hi>Princelike Excelentie Graeff Mauritius van Naſſou, Prince pan Oraengiuen, &amp;c.</hi> haer uyt ghevende voor Ingeni<g ref="char:EOLhyphen"/>eurs of Yverige Patriotten. Woor-ghevende datſe ſecrete aenſlagen op den Vyandt hadden, waer toe datſe hun moe<g ref="char:EOLhyphen"/>ſten laten ghebruycken, ende dit in aller ſtilligheyt eenighe vyer-werken van Boskruyt ende andere materie te maec<g ref="char:EOLhyphen"/>ken, ſonder te openbaren. Want ſoo ſyſulex tegen eeni<g ref="char:EOLhyphen"/>ghen menſch vande Werelt te kennen gaven, daer door 't ſelve mocht ruchtbaer worden, ſo ſouden ſy ongenwijffelt aen den Lijve geſtraft worden, door deſe ende meer andere redden hebben de Matroſen haer woort over gegeven, om
+<pb facs="tcp:180998:8"/>dit in aller ſtilligheyt t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t dienſt van het Lant te doen, met diverſche Diſcourſen tot der materie dienende. Deſe wol<g ref="char:EOLhyphen"/>ven in ſchaeps-kleederen alreede gevoelende, dat de ſake wel weſen ſoude, ſoo heeft een vande Verraders als ghy hier na hooren ſult. In ſijn ſack gheſchooten, ende heeft elck van deſe voorſeyde Matroſen 300. gulden ghegheven, om dat het goede loon, den arbeyt verſoeten mocht, met con<g ref="char:EOLhyphen"/>ditie, ſoo deſe Inſtrumenten wel gemaeckt waren, ende hare operatie wel deden, ſoo ſoude haer loon verbetert wor<g ref="char:EOLhyphen"/>den. Maer voor alle ſaecken anderwherf vermanende deſe ſaeck niemandt te openbaren, want het Lant daer veel aen ghelegen was, noch belaſtende, ſo haeſt deſe dinghen ghe<g ref="char:EOLhyphen"/>reet waren, ſouden ſy de ſelve in Kiſten, Koffers ter plaetſe bringen, te weten, eenige in den Haegh, andere tot Rotter<g ref="char:EOLhyphen"/>dam, om alſo voorts te brenghen daer 't ſelve haer belaſt ſoude worden, dit alſo beſchict zijnde, met vaſte beloften alles op ſekeren tijt te volbrenghen.</p>
+            <p>Soo heeft een van deſe Verraders den looſen Koopman gemaect, ende eenighe Piſtolen op gekocht, om deſelve te verſenden naer den Manſvelt ende elders, deſe nu all heb<g ref="char:EOLhyphen"/>bende in een ſeker Koffer ghepackt, ende laten brenghen ten huyſe van een haerder Creaturen, de ſelve in eenen die<g ref="char:EOLhyphen"/>pen Kelder intſant dickwils afgeſchoten, om te proberen, of de ſelve ooc vicx waren, naer deſen de ſelve in een ander koffer met ſijn toebehoor in den Haegh heeft laten bren<g ref="char:EOLhyphen"/>ghen, in ſekere Herberge, als gheſchiedt is.</p>
+            <p>In middeler tijt, ſoo hadden ſekere van hare Creaturen den weet om haer op ſulcke tijt alſſer beſtemt was te laten vinden, elck een daer ſy haer ſchelm ſtuck int werck ſouden gheſtelt hebben. Deſe voorſeyde Matroſen oock op haer ſaken niet ſlapende, maer hebben een ghedeelte van hare Brantwerck op den 5. Februarij in den Haegh gebracht, daer ſy vonden in ſeker Herberghe als gheſeyt is. Deſen man ende meer andere de welcke haer te werck gheſtelt hadden, hebben ſy het ſelve goedt over ghelevert, voorts werden deſe Matroſen ſeer wel getra &amp; eert, van eten ende
+<pb facs="tcp:180998:8"/>drincken ſonder hare koſten.</p>
+            <p>Een van deſe Maets ſagh met een ſwenck dat den ghee<g ref="char:EOLhyphen"/>nen, de welcke hare't gelt gegeve<g ref="char:cmbAbbrStroke">̄</g> hadde, eenighe correſpon<g ref="char:EOLhyphen"/>dencie met eennen man van Bleyſwijck hadde, den welcken hy ſcheen te willen kennen, hy in hem ſelven overdenc<g ref="char:EOLhyphen"/>kende, ſoude deſen den Man weſen, de welcke ick my in bleede, ſo en kan deſe ſaec niet alſo zijn, als ons 't ſelve aen gedient is, want deſen Man en was gheen vrient vanden Prins. Deſen Matroos met deſen geladen kroop te bedde gaende, maer dien nacht by een van ſijne getrouwe Maets ſlapende, al hadde hy wel te Lijue gedaen, ſo was doch ſijn hooft vol vremde, ghedachten, zijn Maet wel gheruſt ſla<g ref="char:EOLhyphen"/>pende, hy ſomtijts wat dromende, en dan wederom wacker zinde, beeldende hem veel fantaſien in, alſo dat deſe nacht hem een halfe jaer langh ſcheen te zijn.</p>
+            <p>In middelertijt begint hy eenen vreemden droom te droo<g ref="char:EOLhyphen"/>men,, alſoo dat hem docht datter diverſche (dewelcke hy wel eer ghekent hadde) voor den dach quamen ſpringhen, den eenen uyt den Bogaert, den anderen uyt het Bernende Veldt knaphandigh, van dit ghereetſchap dat deſen Ma<g ref="char:EOLhyphen"/>troos ghemaeckt hadde, een Oly podery op ſijn Spaenſch begonſte te koocken, ende na dat het ſelve op gheſchept was, ſo quamen deſe, onſe Meeſters ende ſchoncken het ſelve de Hoofden des Vaderlants. Deſen dranck ſy nu in hebbende, docht hem datſe door de kracht des Salpeters op ſwelden, ende ten laetſten voor doot never vielen, waer onder eenighe ſijnder bekenden waren, waer over hy van bedroeftheyt ſcheen gheluyt te ſtaen, alſoo dat ſijn maet ontwaeckten, hem aenſtootede, mocht vragen wat hem deerden, hy wacker werdende, ſeyde ick ben blijde dat het een droom is, daer ick mede doende was, den ande<g ref="char:EOLhyphen"/>ren hadde geerne al ſlumerende gheweten wat den droom geweeſt ware, maer hy ſeyde op morghen ſal ick u den ſel<g ref="char:EOLhyphen"/>ven in het langhe ende breed vertellen. Na deſen hy deſe ſaeck wat na denckende, begonſt hem ſelven ſchier verbaeſt te maken dat hy vande doode menſchen, de welcke van
+<pb facs="tcp:180998:9"/>Beuls handen woot hare miſdaet gheſtraft waren, alſoo het hooft onder de Deken treckende, viel in eenen anderen droom ſeer vreemt, want hem dochte dat het gelt (dat hy van deſe fijne Broeders ontfanghen hadde) in ſijne Beurfe alſo begonſte te ſwellen, dat int eynde ſijne Beurſe vant dicken berſtede, het ſelve gelt op de arde vallende, begonſt daer in te wortelen, ende een ander Transformatie aen te nemen. Ia in de reſt, worden het ſelvighe kleyne Manne<g ref="char:EOLhyphen"/>kens, vallende ſo dadelijck inde Princen Iacht, werpende den Prins met fiijn Broeder over boordt.</p>
+            <p>Eenighe Staten met den Koninck van Bohemen aldaer te gaſt zijnde moeſten oock de Fock uytt houden, ende al<g ref="char:EOLhyphen"/>len het Scheepſvolck en wiſt niet om haer lijf te berghen, nu eenighe van ons Scheeps-volck meende het eene ge<g ref="char:EOLhyphen"/>deelte van het Schip in te houden. Maer eer langhe bltes onſen Trompetter eene anderen Alarm, ick te Loeff waert ſiende eenighe ſpaenſche Galioenen op komen om hem voort te over vallen, ick dit dachte te ſien heeft andermael gheluit geſlaghen hem om ſmackende alſo dat hy uyt de Koy viel, ſijn Macker van den ſlach ontwaeckten, ende nu int Bedt niet vindende worde meer verſchrickt als hy ſel<g ref="char:EOLhyphen"/>ver, nu wederom opſtaende, ſijn kameraet wilden veel vra<g ref="char:EOLhyphen"/>ghen, maer heild hem ſlapende om niemant ſuſpicie te geven, alſo beſweet van anghſt den Dagheraet verwach<g ref="char:EOLhyphen"/>tende.</p>
+            <p>So haeſt hy delelve ghewaer geworden is ſijnſe opghe<g ref="char:EOLhyphen"/>ſtaen lacchende met haer andere Maets van het droomen, maer niet te kennen gevende hoe hem te moede was: vor<g ref="char:EOLhyphen"/>ders nae datſe een ſoopien Brandewijn te Lijve ghenomen hadden; ſo zijn ſy uyt wandelen gegaen, ende de anderen zijn daer blijven ſitten drincken.</p>
+            <p>Nuſoo haeſt ſy byten den Huyſe quamen, heeft hy te<g ref="char:EOLhyphen"/>ghen ſijn Kameraet ſijnen droom vertelt, ende ooc wat hy des voorleden daeghs geſien hadde, alſo dat hy recht uyt ſeyde dat hy hem inbleeden eeinige Verradiy te weſen, ende daer goet vonden deſe ſaecke den Prins te vraghen
+<pb facs="tcp:180998:9"/>want ſeyde hy ſo het eenige ſaken tot dienſt van het Vader<g ref="char:EOLhyphen"/>lant zijn, ſullen onſen Prins ongetwijffelt bekent zijn.</p>
+            <p>Den anderen dadelijck oock ſijn oordeel daer by ſtellende ſeide al gheven wy dit den Princs te kennen daer en kan ons geen hinder van komen, want is de ſaeck inder daedt voor het Vaderlandt wy hebben het gheene ghedaen daer voor ons deſe 300. gulden gegeven zijn, ende iſſetter con<g ref="char:EOLhyphen"/>trary, den Prins ſal ons ongetwijffelt noch eenen drinck<g ref="char:EOLhyphen"/>penningh gheven ende altoos in ſijne gratie ſtaen, deſe twee zijn over een ghekomen om den Prins het ſelve aen te dienen maer ſy vreeſden hem ſelfs qualijc te durven ofte te kunnen ſpreken: ten leſten aen het Hof komende bevonden dat den Prins van Orangien na Rijſwijk was, ſy in aller hae<g ref="char:EOLhyphen"/>ſtall d'tſcourerende haer alle beyde vaſt inbeeldende dat geen klaer ſchapen en was, nu daer komende, deden door een van de Pagieu ſegghen datſe den Prins geeren ſpreken wilden, dit den Prins aengedient zijnde heeſt voor ant<g ref="char:EOLhyphen"/>woort gegeven hy ſoude haeſt uyt den Stal na ſijn Koets komen, deſe Matrooſen deden den Pagien anderwerff ver<g ref="char:EOLhyphen"/>manen hem dadelijc te moeten ſpreken daer by voegende dat het een ſaeck was daer den Prins veel aen gelegen was.</p>
+            <p>Den Prins dit verſtaende, heeft deſe Matroſen by hem doen komen, ende ghe vratght wat de Matrooſen verſoeck<g ref="char:EOLhyphen"/>ende waren, ſy meenedn, ſy hadden den Prins wat ſecreets te communiceren, den Prins haer alleenich verhoort heb<g ref="char:EOLhyphen"/>bende, verſtaende een ſaeck daer hem in het minſte niet afbekent en was, hier op niet langh ſlapende, maer is in al<g ref="char:EOLhyphen"/>ler haeſt nae den Haegh ghereden, deſe ſaeck ter vergader<g ref="char:EOLhyphen"/>inghe gheopenbaert, daer op hebben de Heeren op den 6 Februarij, des Iaers 1623. haren Fiſcael met eenige Diena<g ref="char:EOLhyphen"/>ers gheſonden ter Platetſen ofte Herberghe van den Helm, aen het Noort-eynde, nu aldaer komende heeft hy den Weert ghevraeght na ſuleke Koffers, ende naer het volck het welck ſulcks toekomende was, twee vande deſe de welcke in het naevolghende Placcaet ghenoemt zijn, de<g ref="char:EOLhyphen"/>ſe de voncken ghewaer werdende, zijn dadelijck beneffens
+<pb facs="tcp:180998:10"/>de Dienaers ter Deuren uytgheſtreecken, de andere zijn in Huys ghearreſteert, totter tijdt dat den Fiſcael wederom ter Vergadering he ging, verklarende dat dit het Huys niet we<g ref="char:EOLhyphen"/>ſen en moeſt, want de Weert was gheheel te onvreden, ſeg<g ref="char:EOLhyphen"/>geude gheen Koffers in Huys te hebben, nu beter in for<g ref="char:EOLhyphen"/>matie krijgende als hy te vooren hadde, heeft wederom naer de voorſeyde Herberghe ghekeert ende ſo lange gheſocht dat hy het ſelve ghevonden hadde, voorts in hechteniſſe ne<g ref="char:EOLhyphen"/>mende den Weert, Maeghetende noch drie anderen, waer onder den gheenen was den weclken de Matrooſen het ghelt uytghedeylt hadde, de 4. Matroſen werden tot den Viſcael in een Kamer bewaert totter tijt dat de andere dit ſy beſchuldigt hadden eenighſins beleden wat van de ſake was.</p>
+            <p>Den Weere wert met den andere ſeer ſcherp met dreyge<g ref="char:EOLhyphen"/>menten ende woorden gheexamineertzijnde, maer niets be<g ref="char:EOLhyphen"/>lijdende, het welck der waerheyt ghelijck zijnde, ſoo werde dadelijck ordere gheſtelt, om de Soldaten op alle uytgan<g ref="char:EOLhyphen"/>ghen op den Haghe te letten, ſoo haeſt niet ter plaetſen ghe<g ref="char:EOLhyphen"/>komen zijnde, ſoo is een van de voorſeyde Verraders, heb<g ref="char:EOLhyphen"/>bende eenen Wagen gehuert, meenende hem na Delft te begheven, de Soldaten deſen Wagen ſiende, ripen Kivala, deſen miſdadighen dit hoorende ſprongh van den Waghen, ende ſalveerden hem met loopen, de Burgery quamen oock inde Wapenen, alſoo datter veel te doen was.</p>
+            <p>In middelertijt is een Dienaer dadelijck om den Scherp<g ref="char:EOLhyphen"/>rechter gheloopen, den welcken den ſelven dagh tot Leyden eenighe miſdadighen gepijnigt hadde, alſo op den Biddach na de Predicatie zijnſe by den ſcherprechter op een andere manier gheexamineert, ende alſoo veel verſtaen dat den Vij<g ref="char:EOLhyphen"/>cael gheſonden is na de Wooninge van Bernevelt, daer ko<g ref="char:EOLhyphen"/>mende bevonden dat de Soons vertrocken waren, de welcke des voorgaenden daghs noch geſien waren, niet tegenſtaen<g ref="char:EOLhyphen"/>de zijn 2 knechts met den Pedagoge van de Kinderen mede in hechteniſſen ghenomen, en het Huys wert vorders met 14. Dienaers bewaert.</p>
+            <pb facs="tcp:180998:10"/>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> noech bekent ter materij diende, ſoo hiben de Heeren Staten de Matrooſen doen vant Arreſt ontſlaen, vereeren<g ref="char:EOLhyphen"/>de elck een over de twentich dubbelde Ryers.</p>
+            <p>Deſe wel gemoet vertrocken ſijnde, verhopende naer volgende Placcaets nock eenige duyſent guldens alſoo te gewinnen.</p>
+            <p>Donderdagh des nachts ſijn noch dry gevangens bo<g ref="char:EOLhyphen"/>ven gebracht, Vrijdaeghs des morgens noch een van Berckel des ſelven dagh, noch twee van des Hertoghen-Bos, what hunlieder namen ſyn, en is niet geoorloft te ſeggen, om alſoo door eenige miſlaghen niemant te be<g ref="char:EOLhyphen"/>ſchuldighen, de welcke ontſchuldiegh mochte bevon<g ref="char:EOLhyphen"/>den ſyn.</p>
+            <p>Den ſelven Vrydagh ſoo quamen de gerncht en op het Hof dat een Soldaet alreede vier duyſent gulden gewon<g ref="char:EOLhyphen"/>nen hadr, daer uyt ſoo veel verſtaende als dat een vande geene ghevangen was, de welcke int naer gaende Placcaet genomineertzyn, dan wat hier aff is ſal den tijt leeren.</p>
+            <p>Vrydagh ende Saterdag ſijn eenige van Rotterdam ende Delft gevangen.</p>
+            <p>Voort volghen eenighe diſcourſen dewelcke inden Haegh onder alle man om gaen ende het oude ſpreeck<g ref="char:EOLhyphen"/>woort ſegt dat alle man ſeght is ghemeen waer.</p>
+            <p>De ſaken van haer belijdeniſſen wert by de Heeren Sta<g ref="char:EOLhyphen"/>ten ſeer ſecreet gehouden ende daer wert ſeer getwijffelt of het voor eerſt voor alle mans oorden ſal komen, ende dit uyt goede redenen, het is eene out ſpreeckwoort de<g ref="char:EOLhyphen"/>welcke het quaet niet en weet ſal het ſelden doen, want daerzijn eenige dewelcke deſee verraderſche Aenſlagen bekenczijn, ſeggen datſe in gheen Cronick van ſulcken Barbariſche Aenſlagen gehoort hebben, ja ſoo het aenge<g ref="char:EOLhyphen"/>gaen hadde, ſouden de Stutten van onderen ghetrocken zijn, ende het gheheel Huys over hoop ghevallen ſoude hebben, alſoo datter een groote party Inwoonders ver<g ref="char:EOLhyphen"/>moort, inde Lucht ghevlogen, verbrant ende de reſt van onſe Erfvyanden ons over vallen, dewelcke met duyſen<g ref="char:EOLhyphen"/>den
+<pb facs="tcp:180998:11"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> welcke haer voor deſe reyſe door de hant des Almachti<g ref="char:EOLhyphen"/>gen haer als uyt den muyle getrocken is, ende dit door den goeden wil ende het ghebedt der geloovighen, het welck Godt alle reden ſcheen verhoort te hebben, al eer het ſelve met den monde uyt gheſproocken was, want het worde voor vaſt geſegt dat deſen Moort van allen de principale Hoofden onſes Vaderlants ende jop ſpringen ende verbranden aller Mageſijnen op den Biddagh aen<g ref="char:EOLhyphen"/>ghegaen ſoude hebben, och off Godt den Menſchen int ghenerael in haer herte naer het leven in beelden, de groo<g ref="char:EOLhyphen"/>te ellende de welcke uyt't Boskruyt ende der ſelver brandt ontſtaen kan, ghelijck deſen voorleden Somer inde Slagh van Tourlagh, Berghen op Zoom, ende Middel<g ref="char:EOLhyphen"/>burch, gheſien is, wiens Hiſtorye in een Boecxken Oor<g ref="char:EOLhyphen"/>looghs-memory te leſen: ende afghebeelt is: Vorders iſ<g ref="char:EOLhyphen"/>ſer oock te leſen war wreeder moordadigher Tyrannen, deſe Landen ſouden hebben kunnen komen te overvallen. Oock kanmen daer uyt ſpeuren wat voor Seckteſy ſouden moghen in 't minſte verſchout hebben.</p>
+            <p>Dit alles overgeſlaghen ſoo komt alle dage tijdinghe, ende men bevint datter haer diverſche booſe menſchen beginnen te abſentieren, ſoo wel in den Haegh, Rotterdam ende Leyden, het ſchijnt dat hare conſcientie haer ſelven begint te beſchuldighen ende alſoo lopen ſonder dat ſy ghejaeght werden.</p>
+            <p>Voorders een weet ick niet te ſchrijven, dan als dat hier alle uren wat nieus is, ſo haeſt als een ghevangen, op de poort ghebracht wert, ſoo iſſer dadelick zulcken afgrij<g ref="char:EOLhyphen"/>felicken loop gheweeſt, ghelijck of het ghemeene volck ten ſtorm gingh loopen.</p>
+            <p>Noch iſſer onder alleen een vijleyn Paſquill ghevonden, ſeer ſchelde op den <hi>Prins</hi> ende Regeringhe van het landt, wenden voor dat des Landts middelen op gegeeten wor<g ref="char:EOLhyphen"/>den, ſonder daer voor eenigh genoot te hebben, oock ſteect haer de Schattinghezeer teghen de borſt, zegghen<g ref="char:EOLhyphen"/>de daer te vooren maer vier Regierders en waren, datter
+<pb facs="tcp:180998:11"/>nu wel ſes zijn, och lachy! of deſe Lants zaken mi alleen op een menſch enſtanden, hoe lange ſoude hy doch zijn leven voor ſulcke eer-vergheeren Verraders moghen be<g ref="char:EOLhyphen"/>waren, ten ware dat Godt Almachtich door ſyne ongron<g ref="char:EOLhyphen"/>delicke Barmhertigheyt, de ſelve als ooghen-ſchijnlick op ſijne handen draeght, ende nu in korte laren zeer menigh<g ref="char:EOLhyphen"/>mael als eenen oogh-appel bewaert, ſonder dat hy ghe<g ref="char:EOLhyphen"/>quetſt ofte beſchadicht mochte werden, daer voor nu alle Ingheſetenen behooren van gantſcher herten Godt den Heer te voet te vallen, ende anderwerf te dancken, dat hy door ſijne Almoghende voorſienigeyt. Nu den Staet van het Landt door deſen middel als uyt eene wilde duy<g ref="char:EOLhyphen"/>ſterniſſe verlichten zal, want allen de Werelt heeft dus langhe gedacht, dat alleen deſe Raſeryen eenighe poincten<g ref="char:EOLunhyphen"/>der Religie oft ſaligheydt aen treffen mochten, daer uyt nu ſo klaer, als den dagh blijckt, dat alleen hare aenhan<g ref="char:EOLhyphen"/>gers ſchandelick bedroghen zijn. Het ſchijnt dat deſe luyden de gheldt-ſucht drinct, of yet vremts meer Mon<g ref="char:EOLhyphen"/>ſtereus als Religieus, daer toe dit Gheſangh dient.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:180998:12"/>
+            <head>The Continuation of Weekely Newes from ſeuerall parts of the world.</head>
+            <opener>
+               <dateline>
+                  <hi>From Lion,</hi> 
+                  <date>
+                     <hi>Ianuary</hi> 14.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T <hi>Paris</hi> is made great preparation to receiue the King, who purpoſeth to conſult there about the affayres of <hi>Veltolin</hi> and <hi>Italy.</hi> All things are daily performed without any hinderance or difficulty (accor<g ref="char:EOLhyphen"/>ding to the Articles of Peace) through the whole Kingdome: and amongſt the other, the Marquis of <hi>Roſny</hi> is eſtabliſhed againe in his former place of Great Maſter and Captaine Generall of the Ar<g ref="char:EOLhyphen"/>tillery of <hi>France,</hi> which place the Count of <hi>Schon<g ref="char:EOLhyphen"/>berg</hi> diſcharged by the Order and Declaration of the King during the late Commotion in <hi>France,</hi> for certaine Reaſons mouing his Maieſty therunto as appeareth by theſe two annexed Declarations of his Maieſty.</p>
+            <div type="proclamation">
+               <pb facs="tcp:180998:12"/>
+               <head>The Declaration of the King concer<g ref="char:EOLhyphen"/>ning the Commiſsion of the Count of <hi>Schonberg,</hi> made in the behalfe of the Marquis of <hi>Roſny,</hi> Great Maſter and Captaine Generall of the Artil<g ref="char:EOLhyphen"/>lery of France.</head>
+               <p>
+                  <hi>LEWIS</hi> by the grace of God King of <hi>France</hi> and <hi>Nauarre,</hi> to all them which ſhall ſee theſe preſents greeting. The faithfull and good ſeruices which haue beene done vnto Vs by Our deare and well beloued Couſin the Marquis of <hi>Roſny</hi> in the exerciſe of his charge of great Maſter and Cap<g ref="char:EOLhyphen"/>taine Generall of the Artillery of <hi>France,</hi> made vs to expect that hee would haue continued in the ſame affection during the time of the laſt Com<g ref="char:EOLhyphen"/>motions in our Kingdome. But ſeeing that in re<g ref="char:EOLhyphen"/>gard of his alliances (as well by blood as mariage) with ſome of them againſt whom we bore armes, our Couſin was willing to forbeare the exerciſe of his charge aforeſaid, We cauſed the 15. of <hi>Febr:</hi> laſt (in the yeare 1622) our Letters of Commiſſion to be diſpatcht to our deare and well beloued the Count of <hi>Schonberg,</hi> Knight of our orders, and Counſellor in our ſeuerall Councels, Captaine of an hundred horſe of our Ordnances, and Super<g ref="char:EOLhyphen"/>intendent of our Finances (or Treaſure) charging him therewith to exerciſe fully the place of great Maſter and Captaine Generall of the Artillery, vn<g ref="char:EOLhyphen"/>till ſuch time as otherwiſe ſhould be ordered by vs.</p>
+               <p>But becauſe this is ceaſed now in regard of the Peace which wee haue granted to our Subiects
+<pb facs="tcp:180998:13"/>which are now a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ioyntly inclined to our ſeruice, as likewiſe the occaſions which moued our Couſin aforeſaid to forbeare and diſcontinue his charge of great Maſter aforeſaid. And the Count of <hi>Schonberg</hi> afore-mentioned hath beſeeched vs to diſcharge him of the ſaid Commiſſion.</p>
+               <p>FOR WHICH CAVSES deſiring to ſhew to our Couſin the Marquis of <hi>Roſny</hi> the con<g ref="char:EOLhyphen"/>tentment and ſatisfaction which we haue of his perſon, and the good hope of his ſeruices in the time to come.</p>
+               <p>WE HAVE declared, and doe declare by theſe preſents which are ſigned vnder our hand, That the Commiſſion which was granted by vs to the Count of <hi>Schonberg</hi> aforeſaid, had no founda<g ref="char:EOLhyphen"/>tion in the perſon of our Couſin aforeſaid (wee knowing his faithfulneſſe and ſufficiency to diſ<g ref="char:EOLhyphen"/>charge his place) but only on the reſconters and accidents of time which ceaſe now: And therefore we will and are pleaſed that our Couſin aforeſaid ſhall exerciſe hereafter freely and abſolutely his charge of great Maſter and Captaine Generall of the Artillery of <hi>France,</hi> and enioy all the rights, powers or authority, and the dignities granted vn<g ref="char:EOLhyphen"/>to him by his Letters of Prouiſion of the 31 of <hi>A<g ref="char:EOLhyphen"/>prill</hi> 1610. And notwithſtanding any hinderances or obſtacles contrary to this, which we haue reuo<g ref="char:EOLhyphen"/>ked and taken away, and doe reuoke and take away by theſe preſents, BY WHICH WEE COMMAMD all our Officers, Iuſticers, and Subiects, of what quality and condition ſoeuer they may bee, that they obey our ſaid Couſin
+<pb facs="tcp:180998:13"/>aforeſaid, and giue diligent and good attendance when there ſhal be any thing to doe about the Ar<g ref="char:EOLhyphen"/>tillery: For ſuch is our pleaſure.</p>
+               <p>IN WITNESSE whereof we haue cau<g ref="char:EOLhyphen"/>ſed our Seale to be affixed on theſe preſents.</p>
+               <closer>
+                  <dateline>
+                     <hi>Giuen at Lion</hi> 
+                     <date>
+                        <hi>the</hi> 10. <hi>day of December, in the yeare of our Lord</hi> 1622. <hi>and of our raigne the</hi> 13.</date>
+                  </dateline>
+                  <signed>It is ſig<g ref="char:EOLhyphen"/>ned LEWIS, and vpon the Reply or Confirma<g ref="char:EOLhyphen"/>tion, by order of the King BRVLLART. And on a douhle taile is affixed a Seale of greene waxe.</signed>
+               </closer>
+            </div>
+            <div type="commission">
+               <head>
+                  <hi>Here followeth now the Commiſsion which the King had granted before to the Count of</hi> Schonberg, <hi>for to exerciſe the charge of great Maſter of the Artillery, by reaſon of the abſcence of the Marquis of</hi> Roſny.</head>
+               <p>
+                  <hi>LEWIS</hi> by the grace of God King of <hi>France</hi> and <hi>Nauarre,</hi> to our deare and well beloued the Count of <hi>Schonberg,</hi> Knight of our orders, Coun<g ref="char:EOLhyphen"/>ſeller in our Councels, Captaine of an hundred horſe of our Ordnances, &amp; Superintendent of our Treaſure, greeting. Our deare and well beloued Couſin the Marquis of <hi>Roſny,</hi> great Maſter of the Artillery in <hi>France,</hi> hauing made his excuſe vnto vs touching his abſence from our perſon at the ſie<g ref="char:EOLhyphen"/>ges of <hi>Clerac, Montanban, Monheur,</hi> and other pla<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:180998:14"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:180998:14"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:180998:15"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he was bound, by occaſion that ſome of his neareſt kindred are rebelled, and doe keepe certaine places contrary to the obeyſance due vnto vs, and diuers other reſpects which might cauſe ſome miſtruſt of his faithfulnes and loyalty. And he to take all ſcru<g ref="char:EOLhyphen"/>ple away, hauing alſo requeſted vs to diſpence with him for the ſaid ſeruice: It is neceſſary for the good of our ſeruice, &amp; the preſent occaſions which offer themſelues, to make choice of a qualified and worthy perſon which ſhall acquite himſelfe wor<g ref="char:EOLhyphen"/>thily in the ſaid charge of great Maſter of the Ar<g ref="char:EOLhyphen"/>tillery. For which cauſes, wee haue (for the good qualities which are in you, and the great experi<g ref="char:EOLhyphen"/>ence which you haue touching the ſaid point of Artillery, as appeared by the proofes which you haue made during the ſieges mentioned here in exerciſing the ſaid charge, whereby wee haue had great contentment and ſatisfaction) appointed &amp; ordained you, and by theſe preſents ſigned vnder our hand, doe appoint and ordaine you to exer<g ref="char:EOLhyphen"/>ciſe the charge of Superintendency, the admini<g ref="char:EOLhyphen"/>ſtration and gouernment of the ſaid Office of great Maſter and Captaine Generall of our Artillery, as well on this as on the other ſide of the Mountains and Lands of our obeyſance, and protection, vn<g ref="char:EOLhyphen"/>till ſuch time as we ſhall order to the contrary, to ſerue vs in the ſaid charges of Superintenden<g ref="char:EOLhyphen"/>cy, exerciſe, adminiſtration and gouernment of the ſaid Office of great Maſter, to command, to diſpoſe and to order all things touching this point, as well for warlike affayres, as the expences to be
+<pb facs="tcp:180998:15"/>made in regard of it, to remoue, change, depoſe, reeſta<g ref="char:EOLhyphen"/>bliſh, appoint, and prouide, all ſuch, Officers, as well ordinarie, as extraordinarie, as you ſhall thinke good, and iudge to be conuenient for our ſeruice; with the ſame rights, powers, honours, authorities, preroga<g ref="char:EOLhyphen"/>tiues, and preheminences, as our Coſin the Marqueſſe of <hi>Roſny,</hi> heretofore mentioned, enioyed, or might enioy, by vertue of the power giuen vnto him by the Letters of Prouiſion which he hath of the ſaid Char<g ref="char:EOLhyphen"/>ges, the true Copie whereof is hereunto annexed vn<g ref="char:EOLhyphen"/>der our Counterſeale, euen in ſuch manner, as if the powers there mentioned were here ſpecified, and de<g ref="char:EOLhyphen"/>clared at large. To doe this, we haue giuen you, and giue you full power, might, authoritie, commiſſion, and ſpeciall charge: And command all Lieutenants, the Commiſſaries as well ordinarie, as extraordinarie, the Keepers generall, and particular of the ſaid muni<g ref="char:EOLhyphen"/>tions, the Bailiffe, Prouoſt, and other Officers of our ſaid Artillerie, of what qualitie, or condition ſoeuer they be, without any exception. As likewiſe all Trea<g ref="char:EOLhyphen"/>ſurers, and Controllers Generall of the Artillery be<g ref="char:EOLhyphen"/>fore mentioned, the Prouincials, and other Commit<g ref="char:EOLhyphen"/>ties, to obey you, and to acknowledge your authoritie in matters depending of the charges aforeſaid of the Artillerie, the Superintendencie, and the Adminiſtra<g ref="char:EOLhyphen"/>tion thereof, and to exerciſe their charges or offices vnder you, as they were vſed to doe, and in ſuch man<g ref="char:EOLhyphen"/>ner as ſhall be ordered by you. We forbid them like<g ref="char:EOLhyphen"/>wiſe to acknowledge any body elſe than you in the ſaid function, or ſuch as you ſhall appoint thereunto, vntill ſuch time as otherwiſe ſhall be ordered by Vs. So it is that we command our dearely beloued Coſins
+<pb facs="tcp:180998:16"/>the Marſhals of France, the Gouernours of our Pro<g ref="char:EOLhyphen"/>uinces, the Lieutenants generall, the chiefe Leaders of Armies and Nauies, Admirals and Vice-Admirals, Captaines, and Gouernours, Maiors, Aldermen, Bur<g ref="char:EOLhyphen"/>rough-maſters, and all other Officers and Perſons eſtabliſhed in our Townes, Caſtles and Fortreſſes, Ships, Galleys, and Men or Veſſels of Warre, and all other Iuſtices, Officers, or their Lieutenants, or De<g ref="char:EOLhyphen"/>puties, euery one on his ſide as ſhall be his due: That they abide and permit you to exerciſe the ſaid Super<g ref="char:EOLhyphen"/>intendencie, Exerciſe, Adminiſtration and Gouern<g ref="char:EOLhyphen"/>ment of the ſaid Office of Great Maſter and Captaine Generall of our Artillerie, plainely and peaceably, and that they make knowne vnto you, all the peeces of Artillerie, powder, and other munition, which are in the ſaid Townes, Caſtles, Fortreſſes, Citadels, or Forts, Galleys, Ships, and Veſſels, for (if you thinke it conue<g ref="char:EOLhyphen"/>nient) to make an Inuentorie of them, or to cauſe them to be tranſported or remoued from the ſaid Townes, Citadels, Places, Galleys, Ships, Veſſels, and to aug<g ref="char:EOLhyphen"/>ment, or diminiſh them, and to cauſe them to giue account of them, either to the Commiſſaries or other Officers of the Artillerie aforeſaid, as you ſhall ſend to the ſaid effect vnto all the Store-houſes, and other pla<g ref="char:EOLhyphen"/>ces within the before mentioned Townes, Caſtles, Ci<g ref="char:EOLhyphen"/>tadels, Fortreſſes, Ships, Galeys, and other Men of Warre, in which the ſaid munitions ſhall be, and to make them obey and yeeld to the things touching and concerning the exerciſe, and execution of the ſaid charges, circumſtances and dependances of them, of euery one, and in ſuch manner as it ſhall be required and fitting; charging them all to doe it without ma<g ref="char:EOLhyphen"/>king
+<pb facs="tcp:180998:16"/>any difficultie: for ſuch is our pleaſure.</p>
+               <closer>
+                  <dateline>Giuen at <hi>Paris</hi> 
+                     <date>the 15 of February, in the yeere of our Lord 1622.</date>
+                  </dateline>
+                  <signed>Signed <hi>LEWIS.</hi> And lower, By the order of the King, <hi>BRVLART.</hi> And it was ſealed with the Great Seale vpon yellow waxe.</signed>
+               </closer>
+            </div>
+            <trailer>The Letters of Prouiſion mentioned in this decla<g ref="char:EOLhyphen"/>ration, as likewiſe the grant which the Duke of <hi>Sully,</hi> the father of Monſieur <hi>Roſny</hi> had of the ſaid place, we hope to communicate to you with the next Newes.</trailer>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Rome </hi> 
+                  <date>
+                     <hi>the</hi> 14 <hi>of Ianuary.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>AT <hi>Naples</hi> (where the Vice-Roy is leuying two Regiments for the State of <hi>Millane</hi>) are arreſted three Galleys of <hi>Genua,</hi> becauſe they would carry out of the ſaid Kingdome aboue 80000 Crownes: Wherevpon the Captaine <hi>Doria</hi> (who had 12000 Crownes amongſt them) is fled thence with 2. men of Warre. The Prince of <hi>Conde</hi> went on Wedneſday laſt hence towards <hi>Florence.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Venice </hi> 
+                  <date>
+                     <hi>the</hi> 20 <hi>of Ianuarie.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>WE haue newes from <hi>Conſtantinople,</hi> that there was arriued an Ambaſſador from the King of <hi>Sweden:</hi> and that he, as likewiſe the Ambaſſador of <hi>Muſcouia,</hi> laboured hard to hinder the Peace with the King of <hi>Polonia,</hi> who ſent thither the Duke of <hi>Bara<g ref="char:EOLhyphen"/>ſon,</hi> as his extraordinarie Ambaſſador to confirme the Peace betwixt the Great Signior and the King<g ref="char:EOLhyphen"/>dome aforeſaid. The Polonian Ambaſſador came
+<pb facs="tcp:180998:17"/>there with great ſtate and pompe, being accompanied with diuers Noble and Gentlemen out of his Coun<g ref="char:EOLhyphen"/>trey, beſides many attenders and ſeruants, ſo that his traine amounted to 800 perſons, whereof 200 were on horſebacke.</p>
+            <p>The ſixt of <hi>December</hi> he deliuered theſe preſents in the name of his Maſter, <hi>viz.</hi>
+            </p>
+            <p>An Ewer with a faire Baſon which was in-laid with Bezar ſtones.</p>
+            <p>A Watch couered with Bezar ſtones.</p>
+            <p>An ordinarie Watch.</p>
+            <p>A great looking glaſſe.</p>
+            <p>A box of Indian worke.</p>
+            <p>A Table-boord laid in with Bezar ſtones.</p>
+            <p>A Standiſh laid delicately in out of ſmall peeces of wood with diuers figures of ſiluer.</p>
+            <p>A box with diuers little cups laid in with Bezar ſtones.</p>
+            <p>Eighty skins of blacke Foxes.</p>
+            <p>Two hundred and twenty Sable skins.</p>
+            <p>Fiue Faulcons.</p>
+            <p>Fiue Dogs to hunt withall.</p>
+            <p>With the next we intend to aduiſe you, what Pre<g ref="char:EOLhyphen"/>ſents the two other Ambaſſadors, namely of <hi>Sweden</hi> and <hi>Muſcouia,</hi> haue beſtowed vpon the Great Signeur, and their further proceedings.</p>
+            <p>The Griſons and the Ambaſſadors of Archduke <hi>Leopoldus</hi> are agreed at Millane with the Gouernour, to ſet a toll, or cuſtome vpon the wine, to pay there<g ref="char:EOLhyphen"/>with the two Confederations in the Griſons, beſides the Confederation of the Hoſpitall, the 25000 Crownes which they haue paid for a tribute or taxa<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:180998:17"/>and to build a fort on the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the moun<g ref="char:EOLhyphen"/>taines, ſeeing that the ſouldiers of <hi>Leopoldus</hi> were there a while agoe ſurpriſed, and defeated on a ſud<g ref="char:EOLhyphen"/>den, not looking for any enemies.</p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Vienna </hi> 
+                  <date>
+                     <hi>the</hi> 15 <hi>of Ianuary.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>SEeing that all kinde of victuals and other neceſſa<g ref="char:EOLhyphen"/>ries for mans life grow here daily dearer and dea<g ref="char:EOLhyphen"/>rer, there was the laſt Wedneſday a Proclamation publiſhed (in all the vſuall places of this Citie) where<g ref="char:EOLhyphen"/>in were valued and rated all kinde of fowle, and birds, beſides cheeſe, butter, honie, wax, fiſh, ſuet, candles, ſope, linne, cloth, wood, leather, skins, ſhooes, boots, and the labour of Smiths, Key-makers, Carpenters, Maſons, Bricklayers, Watermen, Carriers and Coach<g ref="char:EOLhyphen"/>men: and they haue puniſhed already ſome ingroſſers, by taking away their bought commodities; and ſome of them did not eſcape ſo but were extended on the Croſſe vpon the market place; and there will alſo ſhortly be a courſe taken with the wares and commo<g ref="char:EOLhyphen"/>dities of Merchants for the eaſe of the common people.</p>
+         </div>
+         <div type="account">
+            <p>Another Letter of the 19 of the ſame Moneth, re<g ref="char:EOLhyphen"/>lates, that <hi>Bethlem Gabor</hi> cauſed there ſtately and pre<g ref="char:EOLhyphen"/>tious Iewels to be bought, intending to beſtow them vpon a Princeſſe in <hi>Polonia,</hi> which is promiſed in ma<g ref="char:EOLhyphen"/>riage vnto him. As likewiſe that the Turks make many Inroades vpon the Chriſtian borders neere <hi>Caniſia.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:180998:18"/>
+            <opener>
+               <dateline>
+                  <hi>From Erfurt </hi> 
+                  <date>
+                     <hi>the</hi> 26 <hi>of Ianuary.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THe Forces aforeſaid of <hi>Saxen Altenburg,</hi> lie yet here in the Villages of this Citie, and ſeeing they can finde now nothing more amongſt the poore Country people, they goe now and rob moſt ſacrile<g ref="char:EOLhyphen"/>giouſly the Churches, and bring thence the cups and veſſels, beſides other ornaments of the Churches: and ſome of them hauing inuaded the villages of the Bi<g ref="char:EOLhyphen"/>ſhopricke of <hi>Mentz,</hi> vſe the poore Country people as bad as they haue done with vs. So ſuffers this Land of <hi>Thuringia</hi> an vnreparable dammage of theſe wilfull and vnruly ſouldiers.</p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Collen </hi> 
+                  <date>
+                     <hi>the</hi> 28 <hi>of Ianuarie.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THe laſt letters out of <hi>Swiſſerland,</hi> make mention that the French King had ſent againe a great ſumme of money to <hi>Solathurne</hi> for the Swiſſers: And that on the other ſide, the Spaniſh haue granted the Griſons the free exerciſe of their Religion, by which meanes they had drawne many of the Country to their deuotion, and obeiſance.</p>
+            <p>The Regiment of the Duke of <hi>Holſtein</hi> is inquarte<g ref="char:EOLhyphen"/>red in the County of Naſſaw, and the regiment of the Duke of <hi>Saxen-Lowenburg,</hi> was marcht vp to<g ref="char:EOLhyphen"/>wards <hi>Worms.</hi>
+            </p>
+            <p>The 21. came the Count <hi>Henry Vandenberg</hi> with certaine horſes, many Carts and Waggons, before the Fort of <hi>Papenmutz,</hi> and tooke the moſt part of the Ordnance, munition, and other warlike preparations
+<pb facs="tcp:180998:18"/>thence, beſides many ſouldiers, leauing but very few in it: and it is rumord that he takes his way towards <hi>Lipſtadt,</hi> and that he will beſiege the ſaid towne, with the aid of the ſouldiers which are comming out of the Palatinate. The ſpeech goeth likewiſe that the Count of <hi>Iſenburg</hi> is drawing downe with his forces, ſo that it ſeemeth that the Hollanders ſhall haue the burthen of the war vpon their necks, and wee are likely to haue a long laſting war in thoſe parts.</p>
+            <p>We vnderſtand heere for a certaine that his Impe<g ref="char:EOLhyphen"/>riall Maieſty hath giuen order, that both the Regi<g ref="char:EOLhyphen"/>ments of the Dukes of <hi>Holſtayn,</hi> and of <hi>Saxen-Lowen<g ref="char:EOLhyphen"/>burg,</hi> as likewiſe the other which lay about <hi>Worms,</hi> ſhall march vp to ioyne themſelues to the forces of <hi>Tilly</hi> and <hi>Anholt,</hi> to ſet vpon the warlike troupe of Count <hi>Mansfield,</hi> and the Duke <hi>Chriſtian</hi> of <hi>Brunſwick.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Collen </hi> 
+                  <date>
+                     <hi>the</hi> 29. <hi>of Ianuary.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>WIth the Fort of <hi>Papenmutzs</hi> it ſtands ſtill as be<g ref="char:EOLhyphen"/>fore, the moſt part of the ſouldiers are ſent thence ſomewhere elſe, and ſome foure or fiue daies agoe were 15 peeces of Ordnance carried backe towards the towne of <hi>Gulick,</hi> in the meane time there remaine but few ſouldiers in the Fort aforeſaid, ſee<g ref="char:EOLhyphen"/>ing there is ſuch ſtinking ſmell, that a man can hardly abide there: we heare as yet nothing of the pulling downe of it, but it ſeemeth rather that it will be repai<g ref="char:EOLhyphen"/>red againe, the Ships paſſe as yet by it, both going and comming without paying any tole or cuſtome.</p>
+            <p>The Baron of <hi>Anholt,</hi> hauing lately taken <hi>Vechta,</hi> and Count <hi>Mansfield</hi> here before the townes of <hi>Wil<g ref="char:EOLhyphen"/>deſhouſen</hi>
+               <pb facs="tcp:180998:19"/>and <hi>Cloppenburgh,</hi> to ſtop one anothers paſ<g ref="char:EOLhyphen"/>ſage, their ſouldiers meet many times, and skirmiſh one againſt another.</p>
+            <p>The Regiment of <hi>Iſenburgh</hi> is marching towards <hi>Weſtphalia,</hi> and is likely to ioyne with the Baron of <hi>Anholt,</hi> to reſiſt the Count of <hi>Mansfield,</hi> but we gheſſe that the late ſnow hath hindered mightily their pur<g ref="char:EOLhyphen"/>poſe and marching.</p>
+            <p>We haue here newes from <hi>Antwerp,</hi> that the Cap<g ref="char:EOLhyphen"/>taine <hi>Ponto Baglione</hi> goeth earneſtly on with the buil<g ref="char:EOLhyphen"/>ding of the new Fort neere the Abbey of <hi>S. Bernart,</hi> to make it defenſible with all haſte. And the Mar<g ref="char:EOLhyphen"/>queſſe cauſeth all the fortifications to be ſurueyed, and to be repaired, where it is required; in the meane time lay the ſouldiers which are come by land out of Italy, and out of Spaine by water, vpon the countrey of Brabant, and it is rumored that they ſhall march to<g ref="char:EOLhyphen"/>wards the forces of the Baron of <hi>Anholt</hi> in <hi>Weſt<g ref="char:EOLhyphen"/>phalia.</hi>
+            </p>
+            <p>We haue here certaine newes that 16. ſhips of the Weſt India fleete are arriued in Spaine, being well and richly laden.</p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Paderborne </hi> 
+                  <date>
+                     <hi>the</hi> 30. <hi>of Ianuary.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>WE are here aduiſed that the Baron of <hi>Anholt</hi> is marching with great Forces, and many peeces of Ordnance, towards the towne of <hi>Lipſtadt</hi> to be<g ref="char:EOLhyphen"/>ſiege it, and to ſtay their pillaging and excurſions.</p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Campen </hi> 
+                  <date>
+                     <hi>the</hi> 23. <hi>of February.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>INto this citty is admitted againe M. <hi>Thomas Goſwy<g ref="char:EOLhyphen"/>nius,</hi> who was an Arminian Preacher in former
+<pb facs="tcp:180998:19"/>time, after a long conference <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Magiſtrate and the Church, vpon his promiſe that hee would come himſelfe, and all his houſhold to our Church, and receiue the Communion, beſides ſome other con<g ref="char:EOLhyphen"/>ditions agreed vpon.</p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Gennip </hi> 
+                  <date>
+                     <hi>the</hi> 24. <hi>of Ianuary.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>SOme 15. ſouldiers of the Garriſon of <hi>S'Hertogen-Boſh,</hi> went lately towards the <hi>Betuwe</hi> to fetch bootie (ſeeing it is giuen priſe as they lay) they had a Boer with them, to ſhew the way, &amp; a Waggon with a boat to croſſe the Riuers and waters therewith. But thoſe of the Caſtle at <hi>Gennip</hi> (where the reuolted Italians lie) met them by the way and ſlue ſome, bringing 5. or 6. of them to the Caſtle as their priſoners. The Boer is amongſt the other taken, but God knoweth how he is like to ſpeed.</p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Rees </hi> 
+                  <date>
+                     <hi>the</hi> 25. <hi>of Ianuary.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>HEre is little newes, beſides that the enemies make now daily ſeuerall excurſions in great numbers doing it more than they did euer before, ſo that the waies and paſſages hereabout are very dangerous.</p>
+            <p>They which come out of Germany relate that there are made great warlike preparations for our enemies, here are likewiſe all things well ordered, and good watches, kept. Here is alſo made a ſearch, and ta<g ref="char:EOLhyphen"/>ken notice of the prouiſion, to prouide afterwards the towne as ſhall be thought fit.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:180998:20"/>
+            <opener>
+               <dateline>
+                  <hi>From Emmerick </hi> 
+                  <date>
+                     <hi>the</hi> 27. <hi>of Ianuary.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THe Magiſtrates at <hi>Cleue</hi> and diuers other places haue giuen warning to their Inhabitants, that they ſhould not truſt any longer to their Neutralitie. There is hard labouring now on the Fort againſt this Towne, and in all the other Sconſes here-about are ſtrong Watches kept, and all places well prouided with neceſſaries.</p>
+            <p>We haue here related by men of credit, which came out of the Biſhopricke of Munſter, that an Imperiall poſt was arriued at <hi>Munſter,</hi> with command of the Emperor that they ſhould receiue and inquarter the Spaniſh forces, as they could doe in the fitteſt man<g ref="char:EOLhyphen"/>ner, and if they would not obey, they ſhould be com<g ref="char:EOLhyphen"/>pelled thereunto, commanding them moreouer to ioyne their owne forces, which they haue leauied with the Crabats vnder the Baron of <hi>Anholt.</hi>
+            </p>
+            <p>
+               <hi>Don Gonzales de Cordua</hi> is vpon an enterpriſe gone towards the riuer of <hi>Weſer,</hi> to ſurpriſe there the Col<g ref="char:EOLhyphen"/>lonell <hi>Kniphowſen</hi> (as we vnderſtand) which lay there abouts with ſome 4000. men, intending to meet with Count <hi>Mansfield,</hi> and the Duke <hi>Chriſtian</hi> of <hi>Brunſwick.</hi> The Duke aforeſaid hauing vnderſtood this, went preſently thitherwards with foure thouſand horſe, and ſome foot, taking his way towards <hi>Cloppenburg,</hi> ſo that by all likelihood there will bee ſome blowes giuen.</p>
+            <p>Wee vnderſtand that Count <hi>Mansfield</hi> cauſeth a bridge to be made ouer the Riuer of <hi>Ems,</hi> intending to goe on an enterpriſe, to which purpoſe he had pro<g ref="char:EOLhyphen"/>uided 9. peeces of Ordnance of the Count of <hi>Emden.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:180998:20"/>
+            <opener>
+               <dateline>
+                  <hi>From Arnhem </hi> 
+                  <date>
+                     <hi>the</hi> 31. <hi>of Ianuary.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>WE vnderſtand from <hi>Emmerick,</hi> that their neu<g ref="char:EOLhyphen"/>trality is broken, ſeeing the Miniſters and Of<g ref="char:EOLhyphen"/>ficers of the Duke of <hi>Newburg,</hi> haue ſeaſed vpon ſome of the ſubiects of the Marqueſſe of <hi>Branden<g ref="char:EOLhyphen"/>burg,</hi> and that they likewiſe apprehend the ſubiects of the Duke of <hi>Newburg</hi> aforeſaid.</p>
+            <p>The Colonell <hi>Gent,</hi> and diuers other Commanders haue gotten commiſſion againe to leauy ſouldiers.</p>
+            <p>The reuolted Spaniſh ſouldiers ſtrengthen them<g ref="char:EOLhyphen"/>ſelues mightily about the towne of <hi>Heuſden,</hi> and haue ſent their chiefe Commander to the States to treat with them. We heare that the Ambaſſador of <hi>Beth<g ref="char:EOLhyphen"/>lem Gabor,</hi> hath had a good anſwer of the States vp<g ref="char:EOLhyphen"/>on his propoſitions to them.</p>
+         </div>
+         <div type="tract">
+            <head>An Admonition to all Chriſtians.</head>
+            <p>IT is no ſmall token of Gods fauour, (beloued bre<g ref="char:EOLhyphen"/>thren) that when he intends to puniſh or chaſtiſe his people, he forewarne them of the ſame, ſending ſome meſſenger or ſigne before to diuert them from their wicked waies. <hi>Niniueh</hi> had experience thereof by ob<g ref="char:EOLhyphen"/>taining a <hi>Ionah.</hi> The Iſraelites although heedleſſe of the ſame, by being forewarned of the Babylonian cap<g ref="char:EOLhyphen"/>tiuitie: yea <hi>Ieruſalem</hi> the Citie of God, before their deſolation vnder <hi>Veſpaſian,</hi> the true figure of that finall deſolation to come. Some man may ſay, all that wee know right well: well then, how is it then that we at this day liuing in an age and time wherein all wicked<g ref="char:EOLhyphen"/>neſſe is broke looſe, and hath got the bridle, as Pride, Whoredome, Theeuery, &amp;c. yea and to ſpeake with the world, ſmall ſinnes are now adaies accounted no
+<pb facs="tcp:180998:21"/>ſinnes, and the very greateſt crying ſinnes, are eſtee<g ref="char:EOLhyphen"/>med but very ſmall and trifling ſinnes: I pray God grant that in ſinning we triumph not ouer <hi>Sodome</hi> and <hi>Gomorrha;</hi> and that compared with them, we doe not iuſtifie them. In a word, our ſinnes crie vnto the hea<g ref="char:EOLhyphen"/>uens for vengeance, and the reuenging hand of God is in wrath and anger lifted vp againſt vs: we haue had ſo many fore-runners (and fore-warners) who haue traced and trod the foot-ſteps and pathes of <hi>Ieremie,</hi> of <hi>Ionah,</hi> and of many others who haue fore-warned vs of the Lords indignation, and manifeſted vnto vs his anger, to ſee if wee would forſake the euill, and cleaue vnto the good way. But what hath all their crying holpen? Is Pride, couetouſneſſe, or any other ſinne leſſened or diminiſhed? not a whit, for I pray God better it, we grow wilfull, euen as ſtubborne and froward children, and withſtand and deſpiſe admoni<g ref="char:EOLhyphen"/>tion, but woe vnto vs notwithſtanding, if wee a<g ref="char:EOLhyphen"/>mend not.</p>
+            <p>Behold here a new meſſenger, fore-runner or fore<g ref="char:EOLhyphen"/>warner, a very ſincere honeſt man, namely, <hi>Intien Ian<g ref="char:EOLhyphen"/>ſen,</hi> Elder of the Church of Chriſt at <hi>Ooſterzee</hi> in <hi>Frieſland:</hi> but I pray you vouchſafe but to reade his owne Declaration, which wee doe here preſent you withall; and ſetting aſide all ſcoffing and mocking, you may thinke your ſelues hereby ſufficiently fore<g ref="char:EOLhyphen"/>warned to amend your ſinfull liues, that ſo the puniſh<g ref="char:EOLhyphen"/>ing hand of God ſo much threatned may be diuerted from you, <hi>Amen.</hi>
+            </p>
+            <div type="account">
+               <head>The Copie of the Viſion.</head>
+               <p>IN the yeere of our Lord 1622. on the eight day of December about eight of the clocke at night. I
+<pb facs="tcp:180998:21"/>
+                  <hi>Intien Ianſen,</hi> being at the houſe of <hi>Hermken Roemerts,</hi> where hauing had ſome conference about Gods moſt holy word, yea and alſo of the great and heauie diſſen<g ref="char:EOLhyphen"/>tions &amp; warres, which we acknowledged to be the pu<g ref="char:EOLhyphen"/>niſhing hand of God meerely for our ſins ſake: here<g ref="char:EOLhyphen"/>with hauing committed them vnto God, and ſo wal<g ref="char:EOLhyphen"/>king forward toward the high-way; On a ſudden I heard a voice crying, <hi>O woe, O woe, O woe;</hi> looking a<g ref="char:EOLhyphen"/>bout me, and not knowing what this voice might be; the voice cried againe, <hi>O woe, O woe, O woe;</hi> and then I beheld, and immediatly I ſaw three perſons, of a moſt wonderfull ſhape and proportion; whereupon I was ſore affrighted and caſt downe, ſo that I ſpake vnto my ſelfe ſaying, <hi>O gracious God and Father, protect me from all euill; be mercifull vnto me poore ſinner.</hi> Then I ſpake vnto them ſaying, Are yee of God? then ſpeake in Gods name; Are yee of Satan? then depart from me, or auoid: then they cried againe, <hi>O woe, O woe, O woe, vnto Brabant and Flaunders; If they repent not of their Pride, Drunkenneſſe, and accurſed Idolatrie, they ſhall be deſtroyed by the ſword, and periſh in a bloud-bath:</hi> whereupon the one gliſtering like the Sunne, and ha<g ref="char:EOLhyphen"/>uing in his right hand a fiery rod, which dropped all of bloud; the ſecond being like vnto Death; the third hauing the ſhape of a Warriour, being bloudie vp to the very knees, hauing in his right hand a ſword, which dropped all of bloud: Then ſaid the firſt; <hi>Looke toward the South-weſt vnder my right arme.</hi> Euery place was then full of horſe-men and ſouldiers, who to the knee waded in bloud: then he pointed mee, <hi>Looke toward the South-weſt vnder my left arme;</hi> and then the whole Land was full of dead bodies. Then they cried, <hi>O woe,
+<pb facs="tcp:180998:22"/>O woe, O woe, vnto Frieſland; God can no longer beare the contempt of his moſt holy word, and the great oppreſsion of the poore.</hi> Then ſaid he vnto me, <hi>Looke vnder my right arme toward the North;</hi> where I beheld and ſaw a ſump<g ref="char:EOLhyphen"/>tuous Stage or Scaffold, each corner thereof being cu<g ref="char:EOLhyphen"/>riouſly carued, with two gilded Lions, whereupon there were ſet and placed a great number of Shep<g ref="char:EOLhyphen"/>herds, hauing ſtaues in their hands, below there was a valley full of ſheepe. I alſo ſaw that ſome of the Shep<g ref="char:EOLhyphen"/>herds were clothed with ſtrange apparell, ſitting vpon the North part of the Stage, bearing no great loue vn<g ref="char:EOLhyphen"/>to the ſheepe; and hauing ſent out a great number of Shearers arrayed in all kinde of apparell; of which Shearers alſo, ſome were in ſtrange apparell clothed, hauing their ſheares very ſharp, wherewith they ſhore off the ſheeps wooll, yea and that ſo neare, that in ma<g ref="char:EOLhyphen"/>ny places they fleyed and fetched off the very skin, ſo that the bloud guſhed out on the ground. Whereup<g ref="char:EOLhyphen"/>on the ſheepe began ſore to grone, vntill I ſaw a man come clothed in ſtrange apparell, hauing a foure-cor<g ref="char:EOLhyphen"/>nerd Cap on his head, and a great basket couered with leather, out of which he fetched certaine letters, which he gaue vnto the Shepherds vpon the North part of the Scaffold, ſo that ſome of the Shearers went about to fill it with a great deale of the bloudie wooll; many of the ſheep began to make a great rumour and noiſe, then I ſaw two great Wolues, hauing a number of Foxes by them, attempting to make an aſſault vpon the valley: whereupon the Shearers with their ſheepe betook them to their flight, ſore complaining on theſe ſtrange Shepherds; vntill that at length there came an old Lion out of a Den or Grate, which Lion was be<g ref="char:EOLhyphen"/>deckt
+<pb facs="tcp:180998:22"/>with Orange from <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> number of yong Lions by him, who in a great furie ſurprized the Wolues, and all their adherents, worried and foyled them all: by which meanes the Shepherds with their ſheepe obtained peace, with much reſt in vnity, and the wooll of the ſheepe began to grow againe. Then hee ſaid vnto mee, <hi>Looke vnder my left arme toward the North,</hi> where the ſheepe are changed and turned to men, euen to Citizens and Huſbandmen, the Shep<g ref="char:EOLhyphen"/>herds were clothed with long furred gownes, the Shea<g ref="char:EOLhyphen"/>rers with long cloakes, hauing broad ſwords or han<g ref="char:EOLhyphen"/>gers by their ſides; then I ſaw that in many places in <hi>Frieſland</hi> the Huſbandmen with the Citizens did riſe vp againſt their Gouernours. Then I began to conſi<g ref="char:EOLhyphen"/>der what it meant: and then they cried, <hi>O woe, O woe, O woe, vnto all Germany or Dutchland, if they turne not from and repent them of their ſinfull liues, the Lord God will puniſh them with warres and diſſentions, plague them with peſtilence and with deare times, vntill they wholly pe<g ref="char:EOLhyphen"/>riſh and come to nought, euen to nothing.</hi> Then he pointed me, <hi>Looke toward the Eaſt vnder my right arme:</hi> And I ſaw a great Eagle with golden fethers, which Eagle had thruſt out another faire Bird out of his place and reſidence, yea worried him, and had almoſt driuen a<g ref="char:EOLhyphen"/>way all Birds out of their places of reſidence. Then he ſaid vnto me, <hi>Looke toward the South-weſt vnder my left arme;</hi> Then I ſaw a great Lion giuing fire and flame out of his jawes, and then I ſaw how with great furie and ſpite he ouercame; eſtabliſhing the foreſaid faire Bird in his former place and reſidence againe, to the exceeding great comfort of all the other expulſed or baniſhed Birds. All which Birds vnto the Lion
+<pb facs="tcp:180998:23"/>yeelded great thankfulneſſe. Herewith they commit<g ref="char:EOLhyphen"/>ted me vnto God the Father, charging mee I ſhould make this thing knowne, and publiſh it vnto all men, ſo that if they repent them not of their ſinfull liues, then ſhal the Lord God let all theſe plagues fall vpon them within the terme of two yeeres. Then ſhall there come a time of peace, ſo that loue and peace ſhall encreaſe and grow on: then when they vaniſhed away, I went home, where lying vpon my bed muſing and medita<g ref="char:EOLhyphen"/>ting vpon theſe great difficulties, and with my ſelfe concluding, and reſoluing, not to publiſh or make knowne the ſame. Whereupon I apprehended a very cleare reſplendent light, and looking vp, I beheld three Viſions or Apparitions, which gaue me three heauie ſtroakes; one vpon my right eye, the other vpon my right ſide, ſo that of mine eye I became ſtarke blinde, and therewith they vaniſhed. And then with great griefe of heart I reſolued to make it knowne: beſee<g ref="char:EOLhyphen"/>ching all faithfull and honeſt hearted Chriſtians, both night and day to call vpon the Lord God by prayer, and earneſtly beſeech the Lord God, that hee will be gratiouſly pleaſed to turne from vs all theſe plagues, euen according to his owne Diuine and godly will.</p>
+               <closer>
+                  <signed>Subſcribed, <hi>By me</hi> Intien Ianſen, <hi>Elder of the Church of Chriſt at</hi> Ooſterzee, <hi>I will take it vp<g ref="char:EOLhyphen"/>on my death, that I my ſelfe haue both heard and ſeene this very thing.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
